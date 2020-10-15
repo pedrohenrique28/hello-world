@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello, my name is Pedro Henrique and I like to study html, css and javascript. 
